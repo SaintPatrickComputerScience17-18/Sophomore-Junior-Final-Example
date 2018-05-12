@@ -1,0 +1,93 @@
+body{
+    background-color: #cccccc;
+}
+
+.platform{
+    width: 960px;
+    height: 1620px;
+    opacity: 0.90;
+    margin:0 auto;
+    color: #ffffff;
+}
+
+footer{
+    height: 160px;
+    margin-left: 25%;
+}
+footer img{
+    height: 100%;
+}
+
+/*********************Background colors************************/
+#sonic-bg{
+    background-color: #4455aa;
+}
+
+#tails-bg{
+    background-color: #ffaa22;
+}
+
+#knuckles-bg{
+    background-color: #ff2222;
+}
+
+#robotnick-bg{
+    background-color: #444444;
+}
+
+/*******************HEADER*************************/
+
+#banner{
+    margin: 0 auto;
+    height: 300px;
+    width: 800px;
+}
+
+#banner > img{
+    height: 100%;
+}
+
+
+nav{
+    height: 60px;
+    display: flex;
+
+}
+nav > a{
+    flex: 1;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+nav > a:hover{
+    background-color: #22aaff;
+}
+
+/********************sonic1*************************/
+#sonic1 img{
+    margin-left:15%;
+}
+
+#tails1 img{
+    margin-left:20%;
+}
+
+#knuckles1 img{
+    margin-left: 20%;
+}
+
+#robotnick1 img{
+    margin-left: 15%;
+}
+
+/********************sonic description *************************/
+.description{
+    padding: 0 10%;
+    color: white;
+}
+
+
+/********************sonic2*************************/
